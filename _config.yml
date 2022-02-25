@@ -32,7 +32,7 @@ twitter_username: tnmsoft
 github_username:  tnmsoft
 
 # Build settings
-remote_theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
